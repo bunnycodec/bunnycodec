@@ -1,4 +1,4 @@
-## Hi there, I'm Sunny! 👋
+## Hola there, I'm Sunny! 👋
 
 <a href="https://linkedin/in/bunnycodec">
   <img align="left" alt="Sunny Kumar | LinkedIn" width="24px" src="./assets/linkedin.png" />
