@@ -20,9 +20,4 @@
 - 📫  How to reach me: **sunnykumar@bunnycodec.com**
 - 😄  Pronouns: **He/Him**
 
-<a href="https://github.com/bunnycodec/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bunnycodec&show_icons=true&include_all_commits=true&theme=vue-dark&exclude_repo=CWC_2019,Green_Gas" alt="Sunny's github stats" />
-</a>
-<a href="https://github.com/bunnycodec/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunnycodec&layout=compact&exclude_repo=CWC_2019,Green_Gas,Simone_Game" />
-</a>
+<img width="54%" src="https://github-readme-stats.vercel.app/api?username=bunnycodec&show_icons=true&include_all_commits=true&theme=vue-dark&exclude_repo=CWC_2019,Green_Gas" alt="Sunny's github stats" /><img width="45.1%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunnycodec&layout=compact&theme=dark&exclude_repo=Green_Gas,Simone_Game" />
