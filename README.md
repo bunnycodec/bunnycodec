@@ -22,10 +22,8 @@
 
   ***
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=bunnycodec&show_icons=true&include_all_commits=true&theme=vue-dark" alt="Sunny's github stats" />
-
 <a href="https://github.com/bunnycodec/">
-  <img align="center" rc="https://github-readme-stats.vercel.app/api?username=bunnycodec&show_icons=true&include_all_commits=true&theme=vue-dark" alt="Sunny's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bunnycodec&show_icons=true&include_all_commits=true&theme=vue-dark" alt="Sunny's github stats" />
 </a>
 <a href="https://github.com/bunnycodec/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunnycodec" />
