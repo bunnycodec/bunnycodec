@@ -6,7 +6,7 @@
 <a href="https://instagram.com/bit_2_byte">
   <img align="left" alt="Sunny Kumar | Instagram" width="24px" src="./assets/instagram.png" />
 </a>
-
+<br />
 ---
 
 <!-- [![Website](https://img.shields.io/website?label=Bunny_Codec&style=for-the-badge&url=https%3A%2F%2FBunnyCodec.com)](https://bunnycodec.com) -->
@@ -26,5 +26,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bunnycodec&show_icons=true&include_all_commits=true&theme=vue-dark" alt="Sunny's github stats" />
 </a>
 <a href="https://github.com/bunnycodec/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunnycodec" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bunnycodec&layout=compact" />
 </a>
