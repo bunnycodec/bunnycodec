@@ -7,7 +7,6 @@
   <img align="left" alt="Sunny Kumar | Instagram" width="24px" src="./assets/instagram.png" />
 </a>
 <br />
----
 
 <!-- [![Website](https://img.shields.io/website?label=Bunny_Codec&style=for-the-badge&url=https%3A%2F%2FBunnyCodec.com)](https://bunnycodec.com) -->
 
@@ -19,8 +18,6 @@
 - 🤔 I’m looking for help with **Internet Security**
 - 📫 How to reach me: **sunnykumar@bunnycodec.com**
 - 😄 Pronouns: **He/Him**
-
-  ***
 
 <a href="https://github.com/bunnycodec/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bunnycodec&show_icons=true&include_all_commits=true&theme=vue-dark" alt="Sunny's github stats" />
