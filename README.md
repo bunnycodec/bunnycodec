@@ -13,7 +13,7 @@
 
 <!-- - 🔭 I’m currently working on **** -->
 
-- 🌱  I’m currently learning **Vue 3 & Node.js**
+- 🌱  I’m currently learning **Python Automation**
 - 👯  I’m looking to collaborate on **Any FrontEnd WebDev Project**
 - 💬  Ask me about **JavaScript**
 - 🤔  I’m looking for help with **Internet Security**
