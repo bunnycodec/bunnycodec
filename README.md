@@ -13,10 +13,10 @@
 
 <!-- - 🔭 I’m currently working on **** -->
 
-- 🌱  I’m currently learning **Python Automation**
-- 👯  I’m looking to collaborate on **Any FrontEnd WebDev Project**
-- 💬  Ask me about **JavaScript**
-- 🤔  I’m looking for help with **Internet Security**
+- 🌱  I’m currently learning **Python Selenium Automation**
+- 👯  I’m looking to collaborate on **Selenium Based Project**
+- 💬  Ask me about **Performance Testing**
+- 🤔  I’m looking for help with **Internet Security & DevOps**
 - 📫  How to reach me: **sunnykumar@bunnycodec.com**
 - 😄  Pronouns: **He/Him**
 
