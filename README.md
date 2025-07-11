@@ -13,7 +13,7 @@
 
 <!-- - 🔭 I’m currently working on **** -->
 
-- 🌱  I’m currently learning **Ethical Hacking & Cyber Security**
+- 🌱  I’m currently learning **Performance & Accessiblity Testing**
 - 👯  I’m looking to collaborate on **Performance Engineering Concepts**
 - 💬  Ask me about **Performance Testing**
 - 🤔  I’m looking for help with **Internet Security & DevOps**
